@@ -1,0 +1,5 @@
+This is a graphical utility for configuring the ReefAngel Wireless Adapter in Windows.
+
+This utility communicates to the wifi adapter over the supplied ReefAngel USB 
+and the TTL drivers must be installed in advance.
+
